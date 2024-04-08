@@ -98,14 +98,6 @@ sort(pred.cases, decreasing = TRUE)
 
 ```
 
-```{r Ridge Regression}
-
-```
-
-```{r Lasso Regression}
-
-```
-
 ```{r Nonparametric Logistic Regression}
 seizures.data<- read.csv(file="C:/Users/bushr/OneDrive/Desktop/seizures_data.csv", header=TRUE, sep=",")
 #Specifying the reference
